@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_3/data%20helper/data_helper.dart';
 import 'package:flutter_application_3/pages/profil_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -11,6 +12,11 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   int navBarIndex = 0;
+  @override
+  void initState() {
+    super.initState();
+    DataHepler.readWordsJson(context);
+  }
 
   @override
   Widget build(BuildContext context) {
