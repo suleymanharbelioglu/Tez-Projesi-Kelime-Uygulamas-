@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_3/data%20helper/data_helper.dart';
+import 'package:flutter_application_3/pages/choose_words.dart';
 import 'package:flutter_application_3/pages/profil_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -14,8 +14,8 @@ class _HomePageState extends State<HomePage> {
   int navBarIndex = 0;
   @override
   void initState() {
+    print("home page init");
     super.initState();
-    DataHepler.readWordsJson(context);
   }
 
   @override
@@ -103,7 +103,11 @@ class _HomePageState extends State<HomePage> {
   KelimeSec(BuildContext context) {
     return Container(
       child: InkWell(
-        onTap: () {},
+        onTap: () {
+          Navigator.of(context).push(MaterialPageRoute(
+            builder: (context) => ChooseWords(),
+          ));
+        },
         child: Container(
           margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
           child: Ink(
