@@ -141,8 +141,10 @@ class _ChooseWordsState extends State<ChooseWords> {
       toolbarHeight: 75,
       leading: IconButton(
         onPressed: () {
-          Navigator.of(context).pop();
-          DataHepler.updatebaseWordsList();
+          if (DataHepler.controlerMinChosenWord()) {
+            Navigator.of(context).pop();
+            DataHepler.updatebaseWordsList();
+          }
         },
         icon: Icon(Icons.arrow_back_ios),
       ),
@@ -196,9 +198,10 @@ class _ChooseWordsState extends State<ChooseWords> {
       ),
       child: InkWell(
         onTap: () {
-          setState(() {
-            DataHepler.ogrenmekIstiyorumButton(word, pageController);
-          });
+            setState(() {
+              DataHepler.ogrenmekIstiyorumButton(word, pageController);
+            });
+          
         },
         child: Ink(
           // alignment: Alignment.center,
