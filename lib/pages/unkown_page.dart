@@ -11,7 +11,6 @@ class UnKnonwnWordsPage extends StatefulWidget {
 class _UnKnonwnWordsPageState extends State<UnKnonwnWordsPage> {
   @override
   Widget build(BuildContext context) {
-    print("bilmiyorum builde");
     return Scaffold(
       appBar: AppBar(
         title: const Text("bilmiyom page"),

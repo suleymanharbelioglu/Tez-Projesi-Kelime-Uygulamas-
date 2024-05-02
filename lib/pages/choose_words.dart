@@ -16,13 +16,11 @@ class _ChooseWordsState extends State<ChooseWords> {
   @override
   void initState() {
     super.initState();
-    print("chose word init");
     pageController = PageController();
   }
 
   @override
   Widget build(BuildContext context) {
-    print("chose word builder");
     return Scaffold(
       backgroundColor: Colors.blue.shade400,
       appBar: appbar(),
@@ -167,7 +165,7 @@ class _ChooseWordsState extends State<ChooseWords> {
       height: 50,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(8),
-        color: Colors.grey.shade200,
+        color: word.isLearned ? Colors.grey : Colors.grey.shade200,
       ),
       margin: EdgeInsets.symmetric(horizontal: 30),
       child: InkWell(
@@ -177,12 +175,19 @@ class _ChooseWordsState extends State<ChooseWords> {
           });
         },
         child: Ink(
-          child: Center(
-            child: const Text(
-              "Biliyorum",
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.w300),
-            ),
-          ),
+          child: word.isLearned
+              ? Center(
+                  child: const Text(
+                    "Geri Al",
+                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.w300),
+                  ),
+                )
+              : Center(
+                  child: const Text(
+                    "Biliyorum",
+                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.w300),
+                  ),
+                ),
         ),
       ),
     );
@@ -198,10 +203,9 @@ class _ChooseWordsState extends State<ChooseWords> {
       ),
       child: InkWell(
         onTap: () {
-            setState(() {
-              DataHepler.ogrenmekIstiyorumButton(word, pageController);
-            });
-          
+          setState(() {
+            DataHepler.ogrenmekIstiyorumButton(word, pageController);
+          });
         },
         child: Ink(
           // alignment: Alignment.center,

@@ -1,3 +1,4 @@
+// ignore_for_file: public_member_api_docs, sort_constructors_first
 // To parse this JSON data, do
 //
 //     final word = wordFromJson(jsonString);
@@ -14,6 +15,7 @@ class Word {
   bool isWantedToLearn;
   bool isLearned;
   int correctAnswer;
+  int num;
 
   Word({
     required this.word,
@@ -21,6 +23,7 @@ class Word {
     required this.isWantedToLearn,
     required this.isLearned,
     required this.correctAnswer,
+    required this.num,
   });
 
   factory Word.fromJson(Map<String, dynamic> json) => Word(
@@ -29,6 +32,7 @@ class Word {
         isWantedToLearn: json["isWantedToLearn"],
         isLearned: json["isLearned"],
         correctAnswer: json["correctAnswer"],
+        num: json["num"],
       );
 
   Map<String, dynamic> toJson() => {
@@ -37,6 +41,7 @@ class Word {
         "isWantedToLearn": isWantedToLearn,
         "isLearned": isLearned,
         "correctAnswer": correctAnswer,
+        "num": num,
       };
 
   @override

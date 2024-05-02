@@ -1,5 +1,6 @@
 [
     {
+        "num": 1,
         "word": "cat",
         "mean": "kedi",
         "isWantedToLearn": false,
@@ -7,6 +8,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 2,
         "word": "dog",
         "mean": "köpek",
         "isWantedToLearn": false,
@@ -14,6 +16,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 3,
         "word": "smake",
         "mean": "yılan",
         "isWantedToLearn": false,
@@ -21,6 +24,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 4,
         "word": "go",
         "mean": "gitmek",
         "isWantedToLearn": false,
@@ -28,6 +32,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 5,
         "word": "come",
         "mean": "gelmek",
         "isWantedToLearn": false,
@@ -35,6 +40,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 6,
         "word": "fly",
         "mean": "uçmak",
         "isWantedToLearn": false,
@@ -42,6 +48,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 7,
         "word": "jump",
         "mean": "zıplamak",
         "isWantedToLearn": false,
@@ -49,6 +56,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 8,
         "word": "eat",
         "mean": "yemek",
         "isWantedToLearn": false,
@@ -56,6 +64,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 9,
         "word": "sleep",
         "mean": "uyumak",
         "isWantedToLearn": false,
@@ -63,6 +72,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 10,
         "word": "breakfast",
         "mean": "kahvaltı",
         "isWantedToLearn": false,
@@ -70,6 +80,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 11,
         "word": "launch",
         "mean": "öğlen yemekği",
         "isWantedToLearn": false,
@@ -77,6 +88,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 12,
         "word": "singer",
         "mean": "şarkıcı",
         "isWantedToLearn": false,
@@ -84,6 +96,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 13,
         "word": "trash",
         "mean": "çöp",
         "isWantedToLearn": false,
@@ -91,6 +104,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 14,
         "word": "plane",
         "mean": "uçak",
         "isWantedToLearn": false,
@@ -98,6 +112,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 15,
         "word": "car",
         "mean": "arba",
         "isWantedToLearn": false,
@@ -105,6 +120,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 16,
         "word": "bycicle",
         "mean": "bisiklet",
         "isWantedToLearn": false,
@@ -112,6 +128,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 17,
         "word": "yellow",
         "mean": "sarı",
         "isWantedToLearn": false,
@@ -119,6 +136,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 18,
         "word": "red",
         "mean": "kırmızı",
         "isWantedToLearn": false,
@@ -126,6 +144,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 19,
         "word": "black",
         "mean": "siyah",
         "isWantedToLearn": false,
@@ -133,6 +152,7 @@
         "correctAnswer": 0
     },
     {
+        "num": 120,
         "word": "green",
         "mean": "yeşil",
         "isWantedToLearn": false,

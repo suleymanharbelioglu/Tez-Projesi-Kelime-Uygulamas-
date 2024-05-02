@@ -205,7 +205,6 @@ class _ProfilePageState extends State<ProfilePage> {
   }
 
   onUpdate() {
-    print("onUpdate ---------------------------------------");
     setState(() {
       bildigimKelimeler = DataHepler.learnedWords.length;
       bilmedigimKelimeler = DataHepler.wantTolearnWords.length;

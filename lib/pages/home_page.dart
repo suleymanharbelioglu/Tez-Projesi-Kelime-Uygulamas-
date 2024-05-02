@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_3/pages/choose_words.dart';
+import 'package:flutter_application_3/pages/practice_page.dart';
 import 'package:flutter_application_3/pages/profil_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -14,13 +15,11 @@ class _HomePageState extends State<HomePage> {
   int navBarIndex = 0;
   @override
   void initState() {
-    print("home page init");
     super.initState();
   }
 
   @override
   Widget build(BuildContext context) {
-    debugPrint("Home Page build");
     return Scaffold(
       appBar: appbar(),
       body: Container(
@@ -51,7 +50,6 @@ class _HomePageState extends State<HomePage> {
       onTap: (value) {
         setState(() {
           navBarIndex = value;
-          debugPrint("navbarIndex : $navBarIndex");
         });
         if (value == 1) {
           Navigator.of(context).push(MaterialPageRoute(
@@ -78,7 +76,11 @@ class _HomePageState extends State<HomePage> {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
       child: InkWell(
-        onTap: () {},
+        onTap: () {
+          Navigator.of(context).push(MaterialPageRoute(
+            builder: (context) => PracticePage(),
+          ));
+        },
         child: Ink(
           height: 120,
           width: double.infinity,
@@ -157,5 +159,4 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
-  
 }

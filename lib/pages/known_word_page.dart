@@ -16,7 +16,6 @@ class KnonwnWordsPage extends StatefulWidget {
 class _KnonwnWordsPageState extends State<KnonwnWordsPage> {
   @override
   Widget build(BuildContext context) {
-    print("biliyorum builder");
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,

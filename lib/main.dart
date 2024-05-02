@@ -12,7 +12,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print("main page builder");
     DataHepler.readWordsJson(context);
 
     return MaterialApp(
