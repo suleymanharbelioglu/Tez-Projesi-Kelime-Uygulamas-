@@ -129,6 +129,134 @@ class DataHepler {
   // toLearnListesinden random bir kelime seçer
   // Question nesnesi döndürür
   static Question giveMeQuestion() {
+    switch (Random().nextInt(2)) {
+      case 0:
+        return giveMeIngQuestion();
+      case 1:
+        return givemeTrQuestion();
+      default:
+        return Question(question: "errorQ", answers: []);
+    }
+  }
+
+  static Question givemeTrQuestion() {
+    int questionIndex = giveMeIndexFromWantoLearnList();
+    var questionWord = wantTolearnWords[questionIndex];
+    print("soru içini seçilen kelime nesnesi : $questionWord");
+    List<int> answerWordIndexList =
+        giveMe3DifIndexFromAllWord(questionWord.word);
+    switch (Random().nextInt(4)) {
+      case 0:
+        var question = Question(
+          question: wantTolearnWords[questionIndex].mean,
+          answers: [
+            Answer(
+                answer: wantTolearnWords[questionIndex].word,
+                isCorrect: true,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[0]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[1]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[2]].word,
+                isCorrect: false,
+                key: questionWord.num),
+          ],
+        );
+        print("qustion is ready -----------------------------");
+        print(question.question);
+        print(question.answers);
+        return question;
+
+      case 1:
+        var question = Question(
+          question: wantTolearnWords[questionIndex].mean,
+          answers: [
+            Answer(
+                answer: allWords[answerWordIndexList[0]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: wantTolearnWords[questionIndex].word,
+                isCorrect: true,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[1]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[2]].word,
+                isCorrect: false,
+                key: questionWord.num),
+          ],
+        );
+        print("qustion is ready -----------------------------");
+        print(question.question);
+        print(question.answers);
+        return question;
+      case 2:
+        var question = Question(
+          question: wantTolearnWords[questionIndex].mean,
+          answers: [
+            Answer(
+                answer: allWords[answerWordIndexList[0]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[1]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: wantTolearnWords[questionIndex].word,
+                isCorrect: true,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[2]].word,
+                isCorrect: false,
+                key: questionWord.num),
+          ],
+        );
+        print("qustion is ready -----------------------------");
+        print(question.question);
+        print(question.answers);
+        return question;
+      case 3:
+        var question = Question(
+          question: wantTolearnWords[questionIndex].mean,
+          answers: [
+            Answer(
+                answer: allWords[answerWordIndexList[0]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[1]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: allWords[answerWordIndexList[2]].word,
+                isCorrect: false,
+                key: questionWord.num),
+            Answer(
+                answer: wantTolearnWords[questionIndex].word,
+                isCorrect: true,
+                key: questionWord.num),
+          ],
+        );
+        print("qustion is ready -----------------------------");
+        print(question.question);
+        print(question.answers);
+        return question;
+      default:
+        return Question(question: "errorQ", answers: []);
+    }
+  }
+
+  static Question giveMeIngQuestion() {
     int questionIndex = giveMeIndexFromWantoLearnList();
     var questionWord = wantTolearnWords[questionIndex];
     print("soru içini seçilen kelime nesnesi : $questionWord");
