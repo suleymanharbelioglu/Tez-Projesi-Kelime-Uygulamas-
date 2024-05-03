@@ -49,7 +49,8 @@ class DataHepler {
           word.isWantedToLearn = true;
           wantTolearnWords.add(word);
           pageController.nextPage(
-              duration: const Duration(milliseconds: 750), curve: Curves.ease);
+              duration: const Duration(milliseconds: 300),
+              curve: Curves.linear);
           print("$word : added to wantoLearnList");
           print("want to learn list");
           print(wantTolearnWords);
@@ -72,7 +73,7 @@ class DataHepler {
         word.isLearned = true;
         learnedWords.add(word);
         pageController.nextPage(
-            duration: const Duration(milliseconds: 750), curve: Curves.ease);
+            duration: const Duration(milliseconds: 300), curve: Curves.linear);
         print("$word : added to learnedList");
         print(" learn list");
         print(learnedWords);
