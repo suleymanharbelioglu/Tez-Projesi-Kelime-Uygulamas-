@@ -1,150 +1,862 @@
 [
     {
         "num": 1,
-        "word": "cat",
-        "mean": "kedi",
+        "word": "a",
+        "mean": "bir",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 2,
-        "word": "dog",
-        "mean": "köpek",
+        "word": "ability",
+        "mean": "kabiliyet",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 3,
-        "word": "smake",
-        "mean": "yılan",
+        "word": "able",
+        "mean": "yapabilmek",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 4,
-        "word": "go",
-        "mean": "gitmek",
+        "word": "about",
+        "mean": "hakkında",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 5,
-        "word": "come",
-        "mean": "gelmek",
+        "word": "above",
+        "mean": "yukarıda",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 6,
-        "word": "fly",
-        "mean": "uçmak",
+        "word": "accept",
+        "mean": "kabul etmek",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 7,
-        "word": "jump",
-        "mean": "zıplamak",
+        "word": "according",
+        "mean": "göre",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 8,
-        "word": "eat",
-        "mean": "yemek",
+        "word": "account",
+        "mean": "hesap",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 9,
-        "word": "sleep",
-        "mean": "uyumak",
+        "word": "across",
+        "mean": "karşısında",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 10,
-        "word": "breakfast",
-        "mean": "kahvaltı",
+        "word": "act",
+        "mean": "eylem, davranış",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 11,
-        "word": "launch",
-        "mean": "öğlen yemekği",
+        "word": "action",
+        "mean": "eylem,hareket",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 12,
-        "word": "singer",
-        "mean": "şarkıcı",
+        "word": "activity",
+        "mean": "faaliyet, etkinlik",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 13,
-        "word": "trash",
-        "mean": "çöp",
+        "word": "actually",
+        "mean": "aslında",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 14,
-        "word": "plane",
-        "mean": "uçak",
+        "word": "add",
+        "mean": "eklemek",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 15,
-        "word": "car",
-        "mean": "arba",
+        "word": "address",
+        "mean": "adres",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 16,
-        "word": "bycicle",
-        "mean": "bisiklet",
+        "word": "administration",
+        "mean": "yönetim",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 17,
-        "word": "yellow",
-        "mean": "sarı",
+        "word": "admit",
+        "mean": "kabul etmek",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 18,
-        "word": "red",
-        "mean": "kırmızı",
+        "word": "adult",
+        "mean": "yetişkin",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0
     },
     {
         "num": 19,
+        "word": "affect",
+        "mean": "etki etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 20,
+        "word": "after",
+        "mean": "sonra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 21,
+        "word": "afternoon",
+        "mean": "öğleden sonra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 22,
+        "word": "afterwards",
+        "mean": "ondan sonra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 23,
+        "word": "again",
+        "mean": "tekrar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 24,
+        "word": "against",
+        "mean": "karşı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 25,
+        "word": "age",
+        "mean": "yaş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 26,
+        "word": "agency",
+        "mean": "ajans",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 27,
+        "word": "agent",
+        "mean": "ajan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 28,
+        "word": "ago",
+        "mean": "önce,evvel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 29,
+        "word": "agree",
+        "mean": "katılmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 30,
+        "word": "agreement",
+        "mean": "anlaşma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 31,
+        "word": "ahead",
+        "mean": "önde,ileri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 32,
+        "word": "air",
+        "mean": "hava",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 33,
+        "word": "all",
+        "mean": "tüm,bütün",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 34,
+        "word": "all right",
+        "mean": "peki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 35,
+        "word": "allow",
+        "mean": "izin vermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 36,
+        "word": "almost",
+        "mean": "neredeyse",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 37,
+        "word": "alone",
+        "mean": "yalnız",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 38,
+        "word": "along",
+        "mean": "boyunca",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 39,
+        "word": "already",
+        "mean": "zaten",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 40,
+        "word": "also",
+        "mean": "ayrıca",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 41,
+        "word": "although",
+        "mean": "rağmen",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 42,
+        "word": "always",
+        "mean": "her zaman",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 43,
+        "word": "american",
+        "mean": "amerikan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 44,
+        "word": "among",
+        "mean": "arasında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 45,
+        "word": "amount",
+        "mean": "miktar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 46,
+        "word": "analysis",
+        "mean": "analiz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 47,
+        "word": "and",
+        "mean": "ve",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 48,
+        "word": "animal",
+        "mean": "hayvan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 49,
+        "word": "another",
+        "mean": "diğeri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 50,
+        "word": "answer",
+        "mean": "cevap",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 51,
+        "word": "any",
+        "mean": "herhangi,hiç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 52,
+        "word": "anyone",
+        "mean": "kimse",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 53,
+        "word": "anything",
+        "mean": "herhangi bir şey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 54,
+        "word": "anyway",
+        "mean": "her halükârda",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 55,
+        "word": "anywhere",
+        "mean": "herhangi bir yere",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 56,
+        "word": "appear",
+        "mean": "görünmek, gözükmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 57,
+        "word": "apple",
+        "mean": "elma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 58,
+        "word": "apply",
+        "mean": "uygulamak, başvurmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 59,
+        "word": "approach",
+        "mean": "yaklaşım, yaklaşma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 60,
+        "word": "april",
+        "mean": "nisan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 61,
+        "word": "area",
+        "mean": "alan, bölge",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 62,
+        "word": "argue",
+        "mean": "tartışmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 63,
+        "word": "arm",
+        "mean": "kol",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 64,
+        "word": "around",
+        "mean": "etrafında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 65,
+        "word": "arrive",
+        "mean": "varmak, ulaşmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 66,
+        "word": "art",
+        "mean": "sanat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 67,
+        "word": "article",
+        "mean": "makale, yazı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 68,
+        "word": "artist",
+        "mean": "sanatçı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 69,
+        "word": "as",
+        "mean": "gibi, olarak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 70,
+        "word": "ask",
+        "mean": "sormak, istemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 71,
+        "word": "assume",
+        "mean": "varsaymak, farzetmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 72,
+        "word": "attack",
+        "mean": "saldırı, atak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 73,
+        "word": "attention",
+        "mean": "dikkat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 74,
+        "word": "attorney",
+        "mean": "avukat, vekil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 75,
+        "word": "audience",
+        "mean": "seyirci, izleyici",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 76,
+        "word": "author",
+        "mean": "yazar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 77,
+        "word": "authority",
+        "mean": "yetki, otorite",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 78,
+        "word": "available",
+        "mean": "müsait",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 79,
+        "word": "avoid",
+        "mean": "önlemek, kaçınmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 80,
+        "word": "away",
+        "mean": "uzak, uzakta",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 81,
+        "word": "baby",
+        "mean": "bebek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 82,
+        "word": "back",
+        "mean": "geri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 83,
+        "word": "bad",
+        "mean": "kötü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 84,
+        "word": "bag",
+        "mean": "sırt çantası",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 85,
+        "word": "ball",
+        "mean": "top",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 86,
+        "word": "bank",
+        "mean": "banka",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 87,
+        "word": "bar",
+        "mean": "bar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 88,
+        "word": "base",
+        "mean": "üs, temel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 89,
+        "word": "be",
+        "mean": "olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 90,
+        "word": "beat",
+        "mean": "dövmek, yenmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 91,
+        "word": "beautiful",
+        "mean": "güzel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 92,
+        "word": "because",
+        "mean": "çünkü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 93,
+        "word": "become",
+        "mean": "olmak, haline gelmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 94,
+        "word": "bed",
+        "mean": "yatak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 95,
+        "word": "before",
+        "mean": "önce",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 96,
+        "word": "begin",
+        "mean": "başlamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 97,
+        "word": "behavior",
+        "mean": "davranış,tutum",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 98,
+        "word": "behind",
+        "mean": "arkasında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 99,
+        "word": "believe",
+        "mean": "inanmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 100,
+        "word": "benefit",
+        "mean": "yarar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 101,
+        "word": "best",
+        "mean": "en iyi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 102,
+        "word": "better",
+        "mean": "daha iyi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 103,
+        "word": "between",
+        "mean": "arasında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 104,
+        "word": "beyond",
+        "mean": "ötesinde",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 105,
+        "word": "big",
+        "mean": "büyük",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 106,
+        "word": "bill",
+        "mean": "fatura",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 107,
+        "word": "billion",
+        "mean": "milyar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 108,
         "word": "black",
         "mean": "siyah",
         "isWantedToLearn": false,
@@ -152,9 +864,6441 @@
         "correctAnswer": 0
     },
     {
+        "num": 109,
+        "word": "blood",
+        "mean": "kan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 110,
+        "word": "blue",
+        "mean": "mavi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 111,
+        "word": "board",
+        "mean": "yazı tahtası",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 112,
+        "word": "body",
+        "mean": "vücut",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 113,
+        "word": "book",
+        "mean": "kitap",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 114,
+        "word": "born",
+        "mean": "doğmuş, doğum",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 115,
+        "word": "both",
+        "mean": "her ikisi de",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 116,
+        "word": "box",
+        "mean": "kutu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 117,
+        "word": "boy",
+        "mean": "erkek çocuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 118,
+        "word": "break",
+        "mean": "kırmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 119,
+        "word": "bring",
+        "mean": "getirmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
         "num": 120,
+        "word": "brother",
+        "mean": "erkek kardeş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 121,
+        "word": "budget",
+        "mean": "bütçe",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 122,
+        "word": "build",
+        "mean": "inşa etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 123,
+        "word": "building",
+        "mean": "bina",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 124,
+        "word": "business",
+        "mean": "iş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 125,
+        "word": "but",
+        "mean": "fakat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 126,
+        "word": "buy",
+        "mean": "satın almak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 127,
+        "word": "by",
+        "mean": "tarafından,ile",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 128,
+        "word": "call",
+        "mean": "aramak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 129,
+        "word": "camera",
+        "mean": "kamera",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 130,
+        "word": "campaign",
+        "mean": "kampanya",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 131,
+        "word": "can",
+        "mean": "yapabilmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 132,
+        "word": "cancer",
+        "mean": "kanser",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 133,
+        "word": "candidate",
+        "mean": "aday",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 134,
+        "word": "capital",
+        "mean": "başkent",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 135,
+        "word": "car",
+        "mean": "araba",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 136,
+        "word": "card",
+        "mean": "kart",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 137,
+        "word": "care",
+        "mean": "bakım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 138,
+        "word": "career",
+        "mean": "kariyer",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 139,
+        "word": "carry",
+        "mean": "taşımak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 140,
+        "word": "case",
+        "mean": "dava",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 141,
+        "word": "catch",
+        "mean": "yakalamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 142,
+        "word": "cause",
+        "mean": "sebep olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 143,
+        "word": "cell",
+        "mean": "hücre",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 144,
+        "word": "center",
+        "mean": "merkez",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 145,
+        "word": "central",
+        "mean": "merkezi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 146,
+        "word": "century",
+        "mean": "yüzyıl",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 147,
+        "word": "certain",
+        "mean": "belirli, kesin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 148,
+        "word": "certainly",
+        "mean": "kesinlikle",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 149,
+        "word": "chair",
+        "mean": "sandalye",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 150,
+        "word": "challenge",
+        "mean": "meydan okuma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 151,
+        "word": "chance",
+        "mean": "şans",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 152,
+        "word": "change",
+        "mean": "değişiklik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 153,
+        "word": "character",
+        "mean": "karakter",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 154,
+        "word": "charge",
+        "mean": "şarj etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 155,
+        "word": "check",
+        "mean": "kontrol etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 156,
+        "word": "child",
+        "mean": "çocuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 157,
+        "word": "choice",
+        "mean": "seçim, seçenek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 158,
+        "word": "choose",
+        "mean": "seçmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 159,
+        "word": "church",
+        "mean": "kilise",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 160,
+        "word": "citizen",
+        "mean": "vatandaş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 161,
+        "word": "city",
+        "mean": "şehir",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 162,
+        "word": "civil",
+        "mean": "sivil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 163,
+        "word": "claim",
+        "mean": "iddia etmek, iddia",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 164,
+        "word": "class",
+        "mean": "sınıf",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 165,
+        "word": "clear",
+        "mean": "temiz, açık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 166,
+        "word": "clearly",
+        "mean": "açıkça",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 167,
+        "word": "close",
+        "mean": "kapatmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 168,
+        "word": "coach",
+        "mean": "koç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 169,
+        "word": "cold",
+        "mean": "soğuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 170,
+        "word": "collection",
+        "mean": "toplamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 171,
+        "word": "college",
+        "mean": "kolej",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 172,
+        "word": "color",
+        "mean": "renk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 173,
+        "word": "come",
+        "mean": "gelmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 174,
+        "word": "commercial",
+        "mean": "ticari",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 175,
+        "word": "common",
+        "mean": "ortak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 176,
+        "word": "community",
+        "mean": "topluluk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 177,
+        "word": "company",
+        "mean": "şirket",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 178,
+        "word": "compare",
+        "mean": "karşılaştırmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 179,
+        "word": "computer",
+        "mean": "bilgisayar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 180,
+        "word": "concern",
+        "mean": "ilişkisi olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 181,
+        "word": "condition",
+        "mean": "şart",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 182,
+        "word": "conference",
+        "mean": "konferans",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 183,
+        "word": "congress",
+        "mean": "kongre",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 184,
+        "word": "consider",
+        "mean": "dikkate almak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 185,
+        "word": "consumer",
+        "mean": "tüketici",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 186,
+        "word": "contain",
+        "mean": "içermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 187,
+        "word": "continue",
+        "mean": "devam etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 188,
+        "word": "control",
+        "mean": "kontrol",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 189,
+        "word": "cost",
+        "mean": "maliyet",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 190,
+        "word": "country",
+        "mean": "ülke",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 191,
+        "word": "couple",
+        "mean": "çift",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 192,
+        "word": "course",
+        "mean": "ders",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 193,
+        "word": "court",
+        "mean": "mahkeme",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 194,
+        "word": "cover",
+        "mean": "örtmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 195,
+        "word": "create",
+        "mean": "yaratmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 196,
+        "word": "crime",
+        "mean": "suç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 197,
+        "word": "cultural",
+        "mean": "kültürel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 198,
+        "word": "culture",
+        "mean": "kültür",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 199,
+        "word": "cup",
+        "mean": "fincan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 200,
+        "word": "current",
+        "mean": "şu andaki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 201,
+        "word": "customer",
+        "mean": "müşteri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 202,
+        "word": "cut",
+        "mean": "kesmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 203,
+        "word": "dark",
+        "mean": "karanlık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 204,
+        "word": "data",
+        "mean": "veri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 205,
+        "word": "daughter",
+        "mean": "kız evlat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 206,
+        "word": "day",
+        "mean": "gün",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 207,
+        "word": "dead",
+        "mean": "ölü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 208,
+        "word": "deal",
+        "mean": "anlaşmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 209,
+        "word": "death",
+        "mean": "ölüm",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 210,
+        "word": "debate",
+        "mean": "müzakere, tartışma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 211,
+        "word": "decade",
+        "mean": "on yıl",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 212,
+        "word": "decide",
+        "mean": "karar vermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 213,
+        "word": "decision",
+        "mean": "karar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 214,
+        "word": "deep",
+        "mean": "derin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 215,
+        "word": "defense",
+        "mean": "savunma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 216,
+        "word": "degree",
+        "mean": "derece",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 217,
+        "word": "democrat",
+        "mean": "demokrat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 218,
+        "word": "democratic",
+        "mean": "demokratik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 219,
+        "word": "describe",
+        "mean": "tanımlamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 220,
+        "word": "design",
+        "mean": "tasarım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 221,
+        "word": "despite",
+        "mean": "rağmen, aksine",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 222,
+        "word": "detail",
+        "mean": "ayrıntı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 223,
+        "word": "determine",
+        "mean": "belirlemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 224,
+        "word": "develop",
+        "mean": "geliştirmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 225,
+        "word": "development",
+        "mean": "gelişim, kalkınma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 226,
+        "word": "die",
+        "mean": "ölmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 227,
+        "word": "difference",
+        "mean": "fark",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 228,
+        "word": "different",
+        "mean": "farklı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 229,
+        "word": "difficult",
+        "mean": "zor",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 230,
+        "word": "dinner",
+        "mean": "akşam yemeği",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 231,
+        "word": "direction",
+        "mean": "yön",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 232,
+        "word": "director",
+        "mean": "yönetmen",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 233,
+        "word": "discover",
+        "mean": "keşfetmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 234,
+        "word": "discuss",
+        "mean": "tartışmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 235,
+        "word": "discussion",
+        "mean": "tartışma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 236,
+        "word": "disease",
+        "mean": "hastalık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 237,
+        "word": "do",
+        "mean": "yapmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 238,
+        "word": "doctor",
+        "mean": "doktor",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 239,
+        "word": "dog",
+        "mean": "köpek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 240,
+        "word": "door",
+        "mean": "kapı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 241,
+        "word": "down",
+        "mean": "aşağı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 242,
+        "word": "draw",
+        "mean": "çizmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 243,
+        "word": "dream",
+        "mean": "rüya",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 244,
+        "word": "drive",
+        "mean": "sürmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 245,
+        "word": "drop",
+        "mean": "düşürmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 246,
+        "word": "drug",
+        "mean": "uyuşturucu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 247,
+        "word": "during",
+        "mean": "sırasında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 248,
+        "word": "each",
+        "mean": "her biri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 249,
+        "word": "early",
+        "mean": "erken",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 250,
+        "word": "east",
+        "mean": "doğu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 251,
+        "word": "easy",
+        "mean": "kolay",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 252,
+        "word": "eat",
+        "mean": "yemek yemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 253,
+        "word": "economic",
+        "mean": "ekonomik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 254,
+        "word": "economy",
+        "mean": "ekonomi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 255,
+        "word": "edge",
+        "mean": "kenar, kıyı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 256,
+        "word": "education",
+        "mean": "eğitim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 257,
+        "word": "effect",
+        "mean": "etki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 258,
+        "word": "effort",
+        "mean": "çaba",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 259,
+        "word": "eight",
+        "mean": "sekiz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 260,
+        "word": "either",
+        "mean": "ya",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 261,
+        "word": "election",
+        "mean": "seçim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 262,
+        "word": "else",
+        "mean": "başka",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 263,
+        "word": "employee",
+        "mean": "çalışan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 264,
+        "word": "end",
+        "mean": "son",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 265,
+        "word": "energy",
+        "mean": "enerji",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 266,
+        "word": "enjoy",
+        "mean": "keyif almak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 267,
+        "word": "enough",
+        "mean": "yeterli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 268,
+        "word": "enter",
+        "mean": "girmek, katılmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 269,
+        "word": "entire",
+        "mean": "tamamı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 270,
+        "word": "environment",
+        "mean": "çevre",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 271,
+        "word": "environmental",
+        "mean": "çevreci",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 272,
+        "word": "especially",
+        "mean": "özellikle",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 273,
+        "word": "establish",
+        "mean": "kurmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 274,
+        "word": "evening",
+        "mean": "akşam",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 275,
+        "word": "event",
+        "mean": "olay",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 276,
+        "word": "ever",
+        "mean": "hiç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 277,
+        "word": "every",
+        "mean": "her",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 278,
+        "word": "everybody",
+        "mean": "herkes",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 279,
+        "word": "everyone",
+        "mean": "herkes",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 280,
+        "word": "everything",
+        "mean": "her şey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 281,
+        "word": "evidence",
+        "mean": "delil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 282,
+        "word": "exactly",
+        "mean": "kesinlikle",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 283,
+        "word": "example",
+        "mean": "örnek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 284,
+        "word": "executive",
+        "mean": "yönetici",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 285,
+        "word": "exist",
+        "mean": "var olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 286,
+        "word": "expect",
+        "mean": "ummak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 287,
+        "word": "experience",
+        "mean": "deneyim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 288,
+        "word": "expert",
+        "mean": "uzman",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 289,
+        "word": "explain",
+        "mean": "açıklamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 290,
+        "word": "eye",
+        "mean": "göz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 291,
+        "word": "face",
+        "mean": "yüz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 292,
+        "word": "fact",
+        "mean": "gerçek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 293,
+        "word": "factor",
+        "mean": "faktör",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 294,
+        "word": "fail",
+        "mean": "başarısız",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 295,
+        "word": "fall",
+        "mean": "düşmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 296,
+        "word": "family",
+        "mean": "aile",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 297,
+        "word": "far",
+        "mean": "uzak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 298,
+        "word": "fast",
+        "mean": "hızlı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 299,
+        "word": "father",
+        "mean": "baba",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 300,
+        "word": "fear",
+        "mean": "korku",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 301,
+        "word": "federal",
+        "mean": "federal",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 302,
+        "word": "feel",
+        "mean": "hissetmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 303,
+        "word": "feeling",
+        "mean": "duygu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 304,
+        "word": "few",
+        "mean": "az",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 305,
+        "word": "field",
+        "mean": "tarla, alan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 306,
+        "word": "fight",
+        "mean": "kavga",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 307,
+        "word": "figure",
+        "mean": "şekil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 308,
+        "word": "fill",
+        "mean": "doldurmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 309,
+        "word": "film",
+        "mean": "film",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 310,
+        "word": "final",
+        "mean": "final, nihai",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 311,
+        "word": "finally",
+        "mean": "en sonunda",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 312,
+        "word": "financial",
+        "mean": "mali",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 313,
+        "word": "find",
+        "mean": "bulmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 314,
+        "word": "fine",
+        "mean": "iyi, güzel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 315,
+        "word": "finger",
+        "mean": "parmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 316,
+        "word": "finish",
+        "mean": "bitiş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 317,
+        "word": "fire",
+        "mean": "ateş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 318,
+        "word": "firm",
+        "mean": "firma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 319,
+        "word": "first",
+        "mean": "ilk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 320,
+        "word": "fish",
+        "mean": "balık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 321,
+        "word": "five",
+        "mean": "beş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 322,
+        "word": "floor",
+        "mean": "zemin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 323,
+        "word": "fly",
+        "mean": "uçmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 324,
+        "word": "focus",
+        "mean": "odaklanmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 325,
+        "word": "follow",
+        "mean": "takip etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 326,
+        "word": "food",
+        "mean": "gıda, yiyecek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 327,
+        "word": "foot",
+        "mean": "ayak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 328,
+        "word": "for",
+        "mean": "için",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 329,
+        "word": "force",
+        "mean": "kuvvet",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 330,
+        "word": "foreign",
+        "mean": "yabancı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 331,
+        "word": "forget",
+        "mean": "unutmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 332,
+        "word": "form",
+        "mean": "form",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 333,
+        "word": "former",
+        "mean": "önceki, eski",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 334,
+        "word": "forward",
+        "mean": "ileri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 335,
+        "word": "four",
+        "mean": "dört",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 336,
+        "word": "free",
+        "mean": "ücretsiz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 337,
+        "word": "friend",
+        "mean": "arkadaş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 338,
+        "word": "front",
+        "mean": "ön",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 339,
+        "word": "full",
+        "mean": "tam",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 340,
+        "word": "fund",
+        "mean": "fon, sermaye",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 341,
+        "word": "future",
+        "mean": "gelecek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 342,
+        "word": "game",
+        "mean": "oyun",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 343,
+        "word": "garden",
+        "mean": "bahçe",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 344,
+        "word": "gas",
+        "mean": "gaz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 345,
+        "word": "general",
+        "mean": "genel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 346,
+        "word": "generation",
+        "mean": "nesil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 347,
+        "word": "get",
+        "mean": "almak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 348,
+        "word": "girl",
+        "mean": "kız",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 349,
+        "word": "give",
+        "mean": "vermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 350,
+        "word": "glass",
+        "mean": "bardak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 351,
+        "word": "go",
+        "mean": "gitmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 352,
+        "word": "goal",
+        "mean": "hedef",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 353,
+        "word": "good",
+        "mean": "iyi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 354,
+        "word": "government",
+        "mean": "hükümet",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 355,
+        "word": "great",
+        "mean": "harika",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 356,
         "word": "green",
         "mean": "yeşil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 357,
+        "word": "ground",
+        "mean": "zemin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 358,
+        "word": "group",
+        "mean": "grup",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 359,
+        "word": "grow",
+        "mean": "büyümek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 360,
+        "word": "growth",
+        "mean": "büyüme",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 361,
+        "word": "guess",
+        "mean": "tahmin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 362,
+        "word": "gun",
+        "mean": "silah",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 363,
+        "word": "guy",
+        "mean": "adam",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 364,
+        "word": "hair",
+        "mean": "saç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 365,
+        "word": "half",
+        "mean": "yarım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 366,
+        "word": "hand",
+        "mean": "el",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 367,
+        "word": "hang",
+        "mean": "asmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 368,
+        "word": "happen",
+        "mean": "olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 369,
+        "word": "happy",
+        "mean": "mutlu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 370,
+        "word": "hard",
+        "mean": "zor",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 371,
+        "word": "have",
+        "mean": "sahip olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 372,
+        "word": "he",
+        "mean": "o (erkek)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 373,
+        "word": "head",
+        "mean": "kafa",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 374,
+        "word": "health",
+        "mean": "sağlık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 375,
+        "word": "hear",
+        "mean": "duymak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 376,
+        "word": "heart",
+        "mean": "kalp",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 377,
+        "word": "heat",
+        "mean": "sıcaklık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 378,
+        "word": "heavy",
+        "mean": "ağır",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 379,
+        "word": "help",
+        "mean": "yardım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 380,
+        "word": "her",
+        "mean": "ona (kadın)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 381,
+        "word": "here",
+        "mean": "burada",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 382,
+        "word": "herself",
+        "mean": "kendini",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 383,
+        "word": "high",
+        "mean": "yüksek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 384,
+        "word": "him",
+        "mean": "onu (erkek)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 385,
+        "word": "himself",
+        "mean": "kendisi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 386,
+        "word": "his",
+        "mean": "onun (erkek)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 387,
+        "word": "history",
+        "mean": "tarih",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 388,
+        "word": "hit",
+        "mean": "çarpmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 389,
+        "word": "hold",
+        "mean": "tutmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 390,
+        "word": "home",
+        "mean": "ev",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 391,
+        "word": "hope",
+        "mean": "umut",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 392,
+        "word": "hospital",
+        "mean": "hastane",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 393,
+        "word": "hot",
+        "mean": "sıcak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 394,
+        "word": "hotel",
+        "mean": "otel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 395,
+        "word": "hour",
+        "mean": "saat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 396,
+        "word": "house",
+        "mean": "ev",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 397,
+        "word": "how",
+        "mean": "nasıl",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 398,
+        "word": "however",
+        "mean": "ancak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 399,
+        "word": "huge",
+        "mean": "kocaman",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 400,
+        "word": "human",
+        "mean": "insan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 401,
+        "word": "hundred",
+        "mean": "yüz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 402,
+        "word": "husband",
+        "mean": "koca",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 403,
+        "word": "idea",
+        "mean": "fikir",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 404,
+        "word": "identify",
+        "mean": "belirlemek,tanımlamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 405,
+        "word": "if",
+        "mean": "eğer",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 406,
+        "word": "image",
+        "mean": "görüntü, resim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 407,
+        "word": "imagine",
+        "mean": "hayal etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 408,
+        "word": "impact",
+        "mean": "etki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 409,
+        "word": "important",
+        "mean": "önemli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 410,
+        "word": "improve",
+        "mean": "iyi hale getirmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 411,
+        "word": "in",
+        "mean": "içinde",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 412,
+        "word": "include",
+        "mean": "dahil etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 413,
+        "word": "including",
+        "mean": "dahil olmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 414,
+        "word": "increase",
+        "mean": "artırmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 415,
+        "word": "indeed",
+        "mean": "aslında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 416,
+        "word": "indicate",
+        "mean": "belirtmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 417,
+        "word": "individual",
+        "mean": "bireysel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 418,
+        "word": "industry",
+        "mean": "endüstri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 419,
+        "word": "information",
+        "mean": "bilgi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 420,
+        "word": "inside",
+        "mean": "içeride",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 421,
+        "word": "instead",
+        "mean": "yerine",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 422,
+        "word": "institution",
+        "mean": "kurum",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 423,
+        "word": "interest",
+        "mean": "faiz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 424,
+        "word": "interesting",
+        "mean": "ilginç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 425,
+        "word": "international",
+        "mean": "uluslararası",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 426,
+        "word": "interview",
+        "mean": "röportaj",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 427,
+        "word": "into",
+        "mean": "içine",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 428,
+        "word": "investment",
+        "mean": "yatırım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 429,
+        "word": "involve",
+        "mean": "içermek, kapsamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 430,
+        "word": "issue",
+        "mean": "sorun",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 431,
+        "word": "it",
+        "mean": "o (cansız)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 432,
+        "word": "item",
+        "mean": "öğe",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 433,
+        "word": "its",
+        "mean": "onun (cansız)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 434,
+        "word": "itself",
+        "mean": "kendisi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 435,
+        "word": "job",
+        "mean": "meslek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 436,
+        "word": "join",
+        "mean": "katılmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 437,
+        "word": "just",
+        "mean": "sadece",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 438,
+        "word": "keep",
+        "mean": "tutmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 439,
+        "word": "key",
+        "mean": "anahtar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 440,
+        "word": "kid",
+        "mean": "çocuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 441,
+        "word": "kill",
+        "mean": "öldürmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 442,
+        "word": "kind",
+        "mean": "tür",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 443,
+        "word": "kitchen",
+        "mean": "mutfak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 444,
+        "word": "know",
+        "mean": "bilmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 445,
+        "word": "knowledge",
+        "mean": "bilgi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 446,
+        "word": "land",
+        "mean": "arazi, toprak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 447,
+        "word": "language",
+        "mean": "dil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 448,
+        "word": "large",
+        "mean": "geniş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 449,
+        "word": "last",
+        "mean": "son",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 450,
+        "word": "late",
+        "mean": "geç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 451,
+        "word": "later",
+        "mean": "sonra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 452,
+        "word": "laugh",
+        "mean": "gülmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 453,
+        "word": "law",
+        "mean": "hukuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 454,
+        "word": "lawyer",
+        "mean": "avukat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 455,
+        "word": "lay",
+        "mean": "yatırmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 456,
+        "word": "lead",
+        "mean": "öncülük etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 457,
+        "word": "leader",
+        "mean": "lider",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 458,
+        "word": "learn",
+        "mean": "öğrenmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 459,
+        "word": "least",
+        "mean": "en az",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 460,
+        "word": "leave",
+        "mean": "ayrılmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 461,
+        "word": "left",
+        "mean": "ayrıldı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 462,
+        "word": "leg",
+        "mean": "bacak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 463,
+        "word": "legal",
+        "mean": "yasal",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 464,
+        "word": "less",
+        "mean": "az",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 465,
+        "word": "let",
+        "mean": "izin vermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 466,
+        "word": "letter",
+        "mean": "mektup",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 467,
+        "word": "level",
+        "mean": "seviye",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 468,
+        "word": "lie",
+        "mean": "yalan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 469,
+        "word": "life",
+        "mean": "hayat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 470,
+        "word": "light",
+        "mean": "ışık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 471,
+        "word": "like",
+        "mean": "beğenmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 472,
+        "word": "likely",
+        "mean": "muhtemel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 473,
+        "word": "line",
+        "mean": "çizgi, sıra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 474,
+        "word": "list",
+        "mean": "liste",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 475,
+        "word": "listen",
+        "mean": "dinlemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 476,
+        "word": "little",
+        "mean": "küçük",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 477,
+        "word": "live",
+        "mean": "canlı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 478,
+        "word": "local",
+        "mean": "yerel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 479,
+        "word": "long",
+        "mean": "uzun",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 480,
+        "word": "look",
+        "mean": "bakmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 481,
+        "word": "lose",
+        "mean": "kaybetmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 482,
+        "word": "loss",
+        "mean": "kayıp",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 483,
+        "word": "lot",
+        "mean": "çok",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 484,
+        "word": "love",
+        "mean": "aşk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 485,
+        "word": "low",
+        "mean": "düşük",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 486,
+        "word": "machine",
+        "mean": "makine",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 487,
+        "word": "magazine",
+        "mean": "dergi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 488,
+        "word": "main",
+        "mean": "ana",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 489,
+        "word": "maintain",
+        "mean": "sürdürmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 490,
+        "word": "majority",
+        "mean": "çoğunluk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 491,
+        "word": "make",
+        "mean": "yapmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 492,
+        "word": "man",
+        "mean": "adam, insan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 493,
+        "word": "manage",
+        "mean": "yönetmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 494,
+        "word": "management",
+        "mean": "yönetim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 495,
+        "word": "manager",
+        "mean": "yönetici",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 496,
+        "word": "many",
+        "mean": "çok",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 497,
+        "word": "market",
+        "mean": "pazar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 498,
+        "word": "marriage",
+        "mean": "evlilik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 499,
+        "word": "material",
+        "mean": "malzeme",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 500,
+        "word": "matter",
+        "mean": "konu, mesele",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 501,
+        "word": "may",
+        "mean": "mayıs ayı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 502,
+        "word": "maybe",
+        "mean": "belki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 503,
+        "word": "me",
+        "mean": "bana, beni",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 504,
+        "word": "mean",
+        "mean": "anlamına gelmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 505,
+        "word": "measure",
+        "mean": "ölçmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 506,
+        "word": "media",
+        "mean": "medya",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 507,
+        "word": "medical",
+        "mean": "tıbbi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 508,
+        "word": "meet",
+        "mean": "buluşmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 509,
+        "word": "meeting",
+        "mean": "toplantı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 510,
+        "word": "member",
+        "mean": "üye",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 511,
+        "word": "memory",
+        "mean": "hafıza",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 512,
+        "word": "mention",
+        "mean": "söz etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 513,
+        "word": "message",
+        "mean": "mesaj",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 514,
+        "word": "method",
+        "mean": "yöntem",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 515,
+        "word": "middle",
+        "mean": "orta",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 516,
+        "word": "might",
+        "mean": "belki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 517,
+        "word": "military",
+        "mean": "askeri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 518,
+        "word": "million",
+        "mean": "milyon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 519,
+        "word": "mind",
+        "mean": "zihin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 520,
+        "word": "minute",
+        "mean": "dakika",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 521,
+        "word": "miss",
+        "mean": "özlemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 522,
+        "word": "mission",
+        "mean": "misyon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 523,
+        "word": "model",
+        "mean": "model",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 524,
+        "word": "modern",
+        "mean": "modern",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 525,
+        "word": "moment",
+        "mean": "an",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 526,
+        "word": "money",
+        "mean": "para",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 527,
+        "word": "month",
+        "mean": "ay",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 528,
+        "word": "more",
+        "mean": "daha",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 529,
+        "word": "morning",
+        "mean": "sabah",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 530,
+        "word": "most",
+        "mean": "çoğu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 531,
+        "word": "mother",
+        "mean": "anne",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 532,
+        "word": "mouth",
+        "mean": "ağız",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 533,
+        "word": "move",
+        "mean": "hareket etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 534,
+        "word": "movement",
+        "mean": "hareket",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 535,
+        "word": "movie",
+        "mean": "film",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 536,
+        "word": "Mr",
+        "mean": "bay",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 537,
+        "word": "Mrs",
+        "mean": "bayan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 538,
+        "word": "much",
+        "mean": "çok",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 539,
+        "word": "music",
+        "mean": "müzik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 540,
+        "word": "must",
+        "mean": "zorunlu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 541,
+        "word": "my",
+        "mean": "benim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 542,
+        "word": "myself",
+        "mean": "kendim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 543,
+        "word": "name",
+        "mean": "isim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 544,
+        "word": "nation",
+        "mean": "ulus",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 545,
+        "word": "national",
+        "mean": "ulusal",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 546,
+        "word": "natural",
+        "mean": "doğal",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 547,
+        "word": "nature",
+        "mean": "doğa",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 548,
+        "word": "near",
+        "mean": "yakın",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 549,
+        "word": "nearly",
+        "mean": "neredeyse",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 550,
+        "word": "necessary",
+        "mean": "gerekli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 551,
+        "word": "need",
+        "mean": "ihtiyaç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 552,
+        "word": "network",
+        "mean": "ağ",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 553,
+        "word": "never",
+        "mean": "asla",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 554,
+        "word": "new",
+        "mean": "yeni",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 555,
+        "word": "news",
+        "mean": "haber",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 556,
+        "word": "newspaper",
+        "mean": "gazete",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 557,
+        "word": "next",
+        "mean": "sonraki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 558,
+        "word": "nice",
+        "mean": "iyi, güzel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 559,
+        "word": "night",
+        "mean": "gece",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 560,
+        "word": "no",
+        "mean": "hayır",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 561,
+        "word": "none",
+        "mean": "hiçbiri, hiçbir şey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 562,
+        "word": "nor",
+        "mean": "ne de",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 563,
+        "word": "north",
+        "mean": "kuzey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 564,
+        "word": "not",
+        "mean": "değil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 565,
+        "word": "note",
+        "mean": "not",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 566,
+        "word": "nothing",
+        "mean": "hiçbir şey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 567,
+        "word": "notice",
+        "mean": "fark etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 568,
+        "word": "now",
+        "mean": "şimdi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 569,
+        "word": "number",
+        "mean": "numara",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 570,
+        "word": "occur",
+        "mean": "meydana gelmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 571,
+        "word": "off",
+        "mean": "kapalı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 572,
+        "word": "offer",
+        "mean": "teklif etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 573,
+        "word": "office",
+        "mean": "ofis",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 574,
+        "word": "officer",
+        "mean": "memur",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 575,
+        "word": "official",
+        "mean": "resmi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 576,
+        "word": "often",
+        "mean": "sıklıkla",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 577,
+        "word": "oil",
+        "mean": "yağ",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 578,
+        "word": "okay",
+        "mean": "tamam",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 579,
+        "word": "old",
+        "mean": "yaşlı, eski",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 580,
+        "word": "on",
+        "mean": "üzerinde",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 581,
+        "word": "once",
+        "mean": "bir zamanlar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 582,
+        "word": "one",
+        "mean": "bir",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 583,
+        "word": "only",
+        "mean": "bir tek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 584,
+        "word": "onto",
+        "mean": "üstüne",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 585,
+        "word": "open",
+        "mean": "açık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 586,
+        "word": "operation",
+        "mean": "ameliyat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 587,
+        "word": "opportunity",
+        "mean": "fırsat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 588,
+        "word": "option",
+        "mean": "seçenek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 589,
+        "word": "or",
+        "mean": "veya",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 590,
+        "word": "order",
+        "mean": "sipariş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 591,
+        "word": "organization",
+        "mean": "organizasyon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 592,
+        "word": "other",
+        "mean": "diğer",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 593,
+        "word": "others",
+        "mean": "diğerleri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 594,
+        "word": "our",
+        "mean": "bizim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 595,
+        "word": "out",
+        "mean": "dışarı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 596,
+        "word": "outside",
+        "mean": "dışında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 597,
+        "word": "over",
+        "mean": "bitti",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 598,
+        "word": "own",
+        "mean": "kendi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 599,
+        "word": "owner",
+        "mean": "sahip",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 600,
+        "word": "page",
+        "mean": "sayfa",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 601,
+        "word": "pain",
+        "mean": "ağrı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 602,
+        "word": "painting",
+        "mean": "boyama",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 603,
+        "word": "paper",
+        "mean": "kağıt",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 604,
+        "word": "parent",
+        "mean": "ebeveyn",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 605,
+        "word": "part",
+        "mean": "bölüm",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 606,
+        "word": "participant",
+        "mean": "katılımcı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 607,
+        "word": "particular",
+        "mean": "özel,belirli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 608,
+        "word": "particularly",
+        "mean": "özellikle",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 609,
+        "word": "partner",
+        "mean": "partner",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 610,
+        "word": "party",
+        "mean": "parti",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 611,
+        "word": "pass",
+        "mean": "geçmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 612,
+        "word": "past",
+        "mean": "geçmiş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 613,
+        "word": "patient",
+        "mean": "hasta, sabırlı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 614,
+        "word": "pattern",
+        "mean": "desen",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 615,
+        "word": "pay",
+        "mean": "ödemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 616,
+        "word": "peace",
+        "mean": "barış",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 617,
+        "word": "people",
+        "mean": "insanlar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 618,
+        "word": "per",
+        "mean": "başına, göre",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 619,
+        "word": "perform",
+        "mean": "yapmak, uygulamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 620,
+        "word": "performance",
+        "mean": "performans",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 621,
+        "word": "perhaps",
+        "mean": "belki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 622,
+        "word": "period",
+        "mean": "periyot, dönem",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 623,
+        "word": "person",
+        "mean": "kişi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 624,
+        "word": "personal",
+        "mean": "kişisel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 625,
+        "word": "phone",
+        "mean": "telefon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 626,
+        "word": "physical",
+        "mean": "fiziksel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 627,
+        "word": "pick",
+        "mean": "almak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 628,
+        "word": "picture",
+        "mean": "resim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 629,
+        "word": "piece",
+        "mean": "parça",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 630,
+        "word": "place",
+        "mean": "yer, mekan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 631,
+        "word": "plan",
+        "mean": "plan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 632,
+        "word": "plant",
+        "mean": "bitki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 633,
+        "word": "play",
+        "mean": "oynamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 634,
+        "word": "player",
+        "mean": "oyuncu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 635,
+        "word": "point",
+        "mean": "puan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 636,
+        "word": "police",
+        "mean": "polis",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 637,
+        "word": "policy",
+        "mean": "politika",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 638,
+        "word": "political",
+        "mean": "siyasi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 639,
+        "word": "politics",
+        "mean": "siyaset",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 640,
+        "word": "poor",
+        "mean": "fakir",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 641,
+        "word": "popular",
+        "mean": "popüler",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 642,
+        "word": "population",
+        "mean": "nüfus",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 643,
+        "word": "position",
+        "mean": "pozisyon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 731,
+        "word": "safe",
+        "mean": "güvenli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 732,
+        "word": "same",
+        "mean": "aynı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 733,
+        "word": "save",
+        "mean": "kaydetmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 734,
+        "word": "say",
+        "mean": "söylemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 735,
+        "word": "scene",
+        "mean": "sahne",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 736,
+        "word": "school",
+        "mean": "okul",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 737,
+        "word": "science",
+        "mean": "bilim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 738,
+        "word": "scientist",
+        "mean": "bilim insanı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 739,
+        "word": "score",
+        "mean": "skor",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 740,
+        "word": "sea",
+        "mean": "deniz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 741,
+        "word": "season",
+        "mean": "sezon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 742,
+        "word": "seat",
+        "mean": "koltuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 743,
+        "word": "second",
+        "mean": "ikinci",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 744,
+        "word": "section",
+        "mean": "bölüm, kesit",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 745,
+        "word": "security",
+        "mean": "güvenlik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 746,
+        "word": "see",
+        "mean": "görmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 747,
+        "word": "seek",
+        "mean": "aramak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 748,
+        "word": "seem",
+        "mean": "görünmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 749,
+        "word": "sell",
+        "mean": "satmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 750,
+        "word": "send",
+        "mean": "göndermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 751,
+        "word": "senior",
+        "mean": "kıdemli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 752,
+        "word": "sense",
+        "mean": "algı, duyu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 753,
+        "word": "series",
+        "mean": "dizi, seri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 754,
+        "word": "serious",
+        "mean": "ciddi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 755,
+        "word": "serve",
+        "mean": "servis",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 756,
+        "word": "service",
+        "mean": "hizmet",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 757,
+        "word": "set",
+        "mean": "ayarlamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 758,
+        "word": "seven",
+        "mean": "yedi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 759,
+        "word": "several",
+        "mean": "birkaç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 760,
+        "word": "shake",
+        "mean": "sallamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 761,
+        "word": "share",
+        "mean": "paylaşmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 762,
+        "word": "she",
+        "mean": "o (kadın)",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 763,
+        "word": "shoot",
+        "mean": "şut çekmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 764,
+        "word": "short",
+        "mean": "kısa",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 765,
+        "word": "shot",
+        "mean": "atış",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 766,
+        "word": "should",
+        "mean": "meli, malı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 767,
+        "word": "shoulder",
+        "mean": "omuz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 768,
+        "word": "show",
+        "mean": "göstermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 769,
+        "word": "side",
+        "mean": "yan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 770,
+        "word": "sign",
+        "mean": "işaret",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 771,
+        "word": "significant",
+        "mean": "önemli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 772,
+        "word": "similar",
+        "mean": "benzer",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 773,
+        "word": "simple",
+        "mean": "basit",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 774,
+        "word": "simply",
+        "mean": "basitçe",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 775,
+        "word": "since",
+        "mean": "dan beri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 776,
+        "word": "sing",
+        "mean": "şarkı söylemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 777,
+        "word": "single",
+        "mean": "tek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 778,
+        "word": "sister",
+        "mean": "kız kardeş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 779,
+        "word": "sit",
+        "mean": "oturmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 780,
+        "word": "site",
+        "mean": "alan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 781,
+        "word": "situation",
+        "mean": "durum",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 782,
+        "word": "six",
+        "mean": "altı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 783,
+        "word": "size",
+        "mean": "boyut",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 784,
+        "word": "skill",
+        "mean": "beceri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 785,
+        "word": "skin",
+        "mean": "cilt",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 786,
+        "word": "small",
+        "mean": "küçük",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 787,
+        "word": "smile",
+        "mean": "gülümseme",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 788,
+        "word": "so",
+        "mean": "yani",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 789,
+        "word": "social",
+        "mean": "sosyal",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 790,
+        "word": "society",
+        "mean": "toplum",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 791,
+        "word": "soldier",
+        "mean": "asker",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 792,
+        "word": "some",
+        "mean": "bazı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 793,
+        "word": "somebody",
+        "mean": "birileri",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 794,
+        "word": "someone",
+        "mean": "birisi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 795,
+        "word": "something",
+        "mean": "bir şey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 796,
+        "word": "sometimes",
+        "mean": "ara sıra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 797,
+        "word": "son",
+        "mean": "oğul",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 798,
+        "word": "song",
+        "mean": "şarkı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 799,
+        "word": "soon",
+        "mean": "yakında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 800,
+        "word": "sort",
+        "mean": "çeşit",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 801,
+        "word": "sound",
+        "mean": "ses",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 802,
+        "word": "source",
+        "mean": "kaynak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 803,
+        "word": "south",
+        "mean": "güney",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 804,
+        "word": "southern",
+        "mean": "güney, güneyli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 805,
+        "word": "space",
+        "mean": "boşluk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 806,
+        "word": "speak",
+        "mean": "konuşmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 807,
+        "word": "special",
+        "mean": "özel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 808,
+        "word": "specific",
+        "mean": "özel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 809,
+        "word": "speech",
+        "mean": "konuşma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 810,
+        "word": "spend",
+        "mean": "harcamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 811,
+        "word": "sport",
+        "mean": "spor",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 812,
+        "word": "spring",
+        "mean": "bahar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 813,
+        "word": "staff",
+        "mean": "personel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 814,
+        "word": "stage",
+        "mean": "sahne",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 815,
+        "word": "stand",
+        "mean": "ayakta durmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 816,
+        "word": "standard",
+        "mean": "standart",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 817,
+        "word": "star",
+        "mean": "yıldız",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 818,
+        "word": "start",
+        "mean": "başlama",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 819,
+        "word": "state",
+        "mean": "devlet, durum",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 820,
+        "word": "statement",
+        "mean": "beyan, ifade",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 821,
+        "word": "station",
+        "mean": "istasyon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 822,
+        "word": "stay",
+        "mean": "kalmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 823,
+        "word": "step",
+        "mean": "adım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 824,
+        "word": "still",
+        "mean": "hala",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 825,
+        "word": "stock",
+        "mean": "stok",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 826,
+        "word": "stop",
+        "mean": "durmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 827,
+        "word": "store",
+        "mean": "mağaza",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 828,
+        "word": "story",
+        "mean": "öykü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 829,
+        "word": "strategy",
+        "mean": "strateji",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 830,
+        "word": "street",
+        "mean": "sokak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 831,
+        "word": "strong",
+        "mean": "güçlü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 832,
+        "word": "structure",
+        "mean": "yapı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 833,
+        "word": "student",
+        "mean": "öğrenci",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 834,
+        "word": "study",
+        "mean": "ders çalışma",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 835,
+        "word": "stuff",
+        "mean": "şey, madde",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 836,
+        "word": "style",
+        "mean": "stil",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 837,
+        "word": "subject",
+        "mean": "konu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 838,
+        "word": "success",
+        "mean": "başarı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 839,
+        "word": "successful",
+        "mean": "başarılı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 840,
+        "word": "such",
+        "mean": "böyle",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 841,
+        "word": "suddenly",
+        "mean": "aniden",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 842,
+        "word": "suffer",
+        "mean": "acı çekmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 843,
+        "word": "suggest",
+        "mean": "önermek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 844,
+        "word": "summer",
+        "mean": "yaz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 845,
+        "word": "support",
+        "mean": "destek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 846,
+        "word": "sure",
+        "mean": "emin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 847,
+        "word": "surface",
+        "mean": "yüzey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 848,
+        "word": "system",
+        "mean": "sistem",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 849,
+        "word": "table",
+        "mean": "masa",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 850,
+        "word": "take",
+        "mean": "almak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 851,
+        "word": "talk",
+        "mean": "konuşmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 852,
+        "word": "task",
+        "mean": "görev",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 853,
+        "word": "tax",
+        "mean": "vergi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 854,
+        "word": "teach",
+        "mean": "öğretmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 855,
+        "word": "teacher",
+        "mean": "öğretmen",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 856,
+        "word": "team",
+        "mean": "takım",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 857,
+        "word": "technology",
+        "mean": "teknoloji",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 858,
+        "word": "television",
+        "mean": "televizyon",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 859,
+        "word": "tell",
+        "mean": "söylemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 860,
+        "word": "ten",
+        "mean": "on",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 861,
+        "word": "tend",
+        "mean": "yönelmek, eğilmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 862,
+        "word": "term",
+        "mean": "terim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 863,
+        "word": "test",
+        "mean": "test",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 864,
+        "word": "thank",
+        "mean": "teşekkür etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 865,
+        "word": "that",
+        "mean": "o",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 866,
+        "word": "their",
+        "mean": "onların",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 867,
+        "word": "them",
+        "mean": "onları",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 868,
+        "word": "themselves",
+        "mean": "kendilerini",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 869,
+        "word": "then",
+        "mean": "sonra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 870,
+        "word": "theory",
+        "mean": "teori",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 871,
+        "word": "there",
+        "mean": "orada",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 872,
+        "word": "these",
+        "mean": "bunlar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 873,
+        "word": "they",
+        "mean": "onlar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 874,
+        "word": "thing",
+        "mean": "şey",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 875,
+        "word": "think",
+        "mean": "düşünmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 876,
+        "word": "third",
+        "mean": "üçüncü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 877,
+        "word": "this",
+        "mean": "bu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 878,
+        "word": "those",
+        "mean": "bunlar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 879,
+        "word": "though",
+        "mean": "olsa da",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 880,
+        "word": "thought",
+        "mean": "düşündü",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 881,
+        "word": "thousand",
+        "mean": "bin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 882,
+        "word": "threat",
+        "mean": "tehdit",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 883,
+        "word": "three",
+        "mean": "üç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 884,
+        "word": "through",
+        "mean": "vasıtasıyla",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 885,
+        "word": "throughout",
+        "mean": "boyunca",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 886,
+        "word": "throw",
+        "mean": "atmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 887,
+        "word": "thus",
+        "mean": "böylece",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 888,
+        "word": "time",
+        "mean": "zaman",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 889,
+        "word": "to",
+        "mean": "(mek, mak), karşı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 890,
+        "word": "today",
+        "mean": "bugün",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 891,
+        "word": "together",
+        "mean": "birlikte",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 892,
+        "word": "tonight",
+        "mean": "bu gece",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 893,
+        "word": "too",
+        "mean": "çok, fazla",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 894,
+        "word": "top",
+        "mean": "üst",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 895,
+        "word": "total",
+        "mean": "toplam, tüm",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 896,
+        "word": "tough",
+        "mean": "sert",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 897,
+        "word": "toward",
+        "mean": "-e doğru",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 898,
+        "word": "town",
+        "mean": "kasaba",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 899,
+        "word": "trade",
+        "mean": "ticaret",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 900,
+        "word": "traditional",
+        "mean": "geleneksel",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 901,
+        "word": "training",
+        "mean": "antrenman",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 902,
+        "word": "travel",
+        "mean": "seyahat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 903,
+        "word": "treat",
+        "mean": "tedavi etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 904,
+        "word": "treatment",
+        "mean": "tedavi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 905,
+        "word": "tree",
+        "mean": "ağaç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 906,
+        "word": "trial",
+        "mean": "deneme, test",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 907,
+        "word": "trip",
+        "mean": "yolculuk",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 908,
+        "word": "trouble",
+        "mean": "sorun",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 909,
+        "word": "true",
+        "mean": "doğru",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 910,
+        "word": "truth",
+        "mean": "hakikat",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 911,
+        "word": "try",
+        "mean": "denemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 912,
+        "word": "turn",
+        "mean": "çevirmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 913,
+        "word": "two",
+        "mean": "iki",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 914,
+        "word": "type",
+        "mean": "tip, tür",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 915,
+        "word": "under",
+        "mean": "altında",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 916,
+        "word": "understand",
+        "mean": "anlamak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 917,
+        "word": "unit",
+        "mean": "ünite",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 918,
+        "word": "until",
+        "mean": "-a kadar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 919,
+        "word": "up",
+        "mean": "yukarı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 920,
+        "word": "upon",
+        "mean": "üzerinde",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 921,
+        "word": "us",
+        "mean": "bize",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 922,
+        "word": "use",
+        "mean": "kullanmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 923,
+        "word": "usually",
+        "mean": "genellikle",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 924,
+        "word": "value",
+        "mean": "değer",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 925,
+        "word": "various",
+        "mean": "çeşitli",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 926,
+        "word": "very",
+        "mean": "çok",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 927,
+        "word": "victim",
+        "mean": "kurban",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 928,
+        "word": "view",
+        "mean": "görünüm",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 929,
+        "word": "violence",
+        "mean": "şiddet",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 930,
+        "word": "visit",
+        "mean": "ziyaret etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 931,
+        "word": "voice",
+        "mean": "ses",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 932,
+        "word": "vote",
+        "mean": "oy",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 933,
+        "word": "wait",
+        "mean": "beklemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 934,
+        "word": "walk",
+        "mean": "yürümek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 935,
+        "word": "wall",
+        "mean": "duvar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 936,
+        "word": "want",
+        "mean": "istemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 937,
+        "word": "war",
+        "mean": "savaş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 938,
+        "word": "watch",
+        "mean": "izlemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 939,
+        "word": "water",
+        "mean": "su",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 940,
+        "word": "way",
+        "mean": "yol, yön",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 941,
+        "word": "we",
+        "mean": "biz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 942,
+        "word": "weapon",
+        "mean": "silah",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 943,
+        "word": "wear",
+        "mean": "giyinmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 944,
+        "word": "week",
+        "mean": "hafta",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 945,
+        "word": "weight",
+        "mean": "ağırlık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 946,
+        "word": "well",
+        "mean": "daha iyi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 947,
+        "word": "west",
+        "mean": "batı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 948,
+        "word": "western",
+        "mean": "batıda",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 949,
+        "word": "what",
+        "mean": "ne",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 950,
+        "word": "whatever",
+        "mean": "her neyse",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 951,
+        "word": "when",
+        "mean": "ne zaman",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 952,
+        "word": "where",
+        "mean": "nerede",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 953,
+        "word": "which",
+        "mean": "hangi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 954,
+        "word": "while",
+        "mean": "iken",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 955,
+        "word": "white",
+        "mean": "beyaz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 956,
+        "word": "who",
+        "mean": "kim",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 957,
+        "word": "whom",
+        "mean": "kime",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 958,
+        "word": "whose",
+        "mean": "kimin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 959,
+        "word": "why",
+        "mean": "niçin?",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 960,
+        "word": "wide",
+        "mean": "geniş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 961,
+        "word": "wife",
+        "mean": "kadın eş",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 962,
+        "word": "win",
+        "mean": "kazanmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 963,
+        "word": "wind",
+        "mean": "rüzgar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 964,
+        "word": "window",
+        "mean": "pencere",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 965,
+        "word": "wish",
+        "mean": "dilek, dilemek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 966,
+        "word": "with",
+        "mean": "ile",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 967,
+        "word": "within",
+        "mean": "içinde",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 968,
+        "word": "without",
+        "mean": "olmadan",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 969,
+        "word": "woman",
+        "mean": "kadın",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 970,
+        "word": "wonder",
+        "mean": "merak etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 971,
+        "word": "word",
+        "mean": "kelime",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 972,
+        "word": "work",
+        "mean": "çalışmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 973,
+        "word": "worker",
+        "mean": "işçi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 974,
+        "word": "world",
+        "mean": "dünya",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 975,
+        "word": "worry",
+        "mean": "endişe etmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 976,
+        "word": "would",
+        "mean": "cekti,caktı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 977,
+        "word": "write",
+        "mean": "yazmak",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 978,
+        "word": "writer",
+        "mean": "yazar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 979,
+        "word": "wrong",
+        "mean": "yanlış",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 980,
+        "word": "yard",
+        "mean": "avlu",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 981,
+        "word": "yarn",
+        "mean": "iplik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 982,
+        "word": "year",
+        "mean": "yıl",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 983,
+        "word": "yearly",
+        "mean": "yıllık",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 984,
+        "word": "yelling",
+        "mean": "seslenmek",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 985,
+        "word": "yes",
+        "mean": "evet",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 986,
+        "word": "yesterday",
+        "mean": "dün",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 987,
+        "word": "yet",
+        "mean": "henüz",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 988,
+        "word": "you",
+        "mean": "sen",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 989,
+        "word": "young",
+        "mean": "genç",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 990,
+        "word": "your",
+        "mean": "senin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 991,
+        "word": "yourself",
+        "mean": "kendin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 992,
+        "word": "youth",
+        "mean": "gençlik",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 993,
+        "word": "zebra",
+        "mean": "zebra",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 994,
+        "word": "zeppelin",
+        "mean": "zeplin",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 995,
+        "word": "zipper",
+        "mean": "fermuar",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 996,
+        "word": "zodiac",
+        "mean": "burçlar kuşağı",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 997,
+        "word": "zombie",
+        "mean": "zombi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 998,
+        "word": "zoo",
+        "mean": "hayvanat bahçesi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 999,
+        "word": "zoology",
+        "mean": "hayvan bilimi",
+        "isWantedToLearn": false,
+        "isLearned": false,
+        "correctAnswer": 0
+    },
+    {
+        "num": 1000,
+        "word": "zoom",
+        "mean": "yakınlaşmak",
         "isWantedToLearn": false,
         "isLearned": false,
         "correctAnswer": 0

@@ -16,11 +16,11 @@ class DataHepler {
   // öğrenilmiş kelimeleri içerir
   static List<Word> learnedWords = [];
   // uyugulamadaki bütün kelieme sayısı
-  static int totalWords = 20;
+  static int totalWords = 430;
   // öğrenilmek için seçilebilecek max kelime sayısı
-  static int maxChosenWord = 10;
+  static int maxChosenWord = 50;
   // öğrenilmek istenin min kelime sayısı
-  static int minChosenWord = 2;
+  static int minChosenWord = 20;
 
   // json dosyasından verileri okur , word modeline çeviri baseWords listesine hepsini ekler
   static readWordsJson(BuildContext context) async {

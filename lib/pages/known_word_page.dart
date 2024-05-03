@@ -10,7 +10,7 @@ class KnonwnWordsPage extends StatefulWidget {
   }) : super(key: key);
   final Function onUpdate;
   @override
-  State<KnonwnWordsPage> createState() => _KnonwnWordsPageState();
+  State<KnonwnWordsPage> createState() => _KnonwnWordsPageState(); 
 }
 
 class _KnonwnWordsPageState extends State<KnonwnWordsPage> {
@@ -49,8 +49,11 @@ class _KnonwnWordsPageState extends State<KnonwnWordsPage> {
               trailing: IconButton(
                   onPressed: () {
                     setState(() {
+                      word.isLearned = false;
                       DataHepler.learnedWords.remove(word);
-                      DataHepler.baseWords.add(word);
+                      if (!DataHepler.baseWords.contains(word)) {
+                        DataHepler.baseWords.add(word);
+                      }
                     });
                   },
                   icon: const Icon(Icons.exit_to_app_sharp)),
