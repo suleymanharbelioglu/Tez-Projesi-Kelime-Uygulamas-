@@ -149,7 +149,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.white,
       title: Center(
         child: Text(
-          "WORD 4000",
+          "WORD 1000",
           style: GoogleFonts.aBeeZee(
             fontSize: 25,
             fontWeight: FontWeight.bold,

@@ -16,11 +16,12 @@ class DataHepler {
   // öğrenilmiş kelimeleri içerir
   static List<Word> learnedWords = [];
   // uyugulamadaki bütün kelieme sayısı
-  static int totalWords = 430;
+  static int totalWords = 1000;
   // öğrenilmek için seçilebilecek max kelime sayısı
   static int maxChosenWord = 50;
   // öğrenilmek istenin min kelime sayısı
   static int minChosenWord = 20;
+  static int trueAnswerIndex = 0;
 
   // json dosyasından verileri okur , word modeline çeviri baseWords listesine hepsini ekler
   static readWordsJson(BuildContext context) async {
@@ -148,6 +149,7 @@ class DataHepler {
         giveMe3DifIndexFromAllWord(questionWord.word);
     switch (Random().nextInt(4)) {
       case 0:
+        trueAnswerIndex = 0;
         var question = Question(
           question: wantTolearnWords[questionIndex].mean,
           answers: [
@@ -175,6 +177,8 @@ class DataHepler {
         return question;
 
       case 1:
+        trueAnswerIndex = 1;
+
         var question = Question(
           question: wantTolearnWords[questionIndex].mean,
           answers: [
@@ -201,6 +205,8 @@ class DataHepler {
         print(question.answers);
         return question;
       case 2:
+        trueAnswerIndex = 2;
+
         var question = Question(
           question: wantTolearnWords[questionIndex].mean,
           answers: [
@@ -227,6 +233,8 @@ class DataHepler {
         print(question.answers);
         return question;
       case 3:
+        trueAnswerIndex = 3;
+
         var question = Question(
           question: wantTolearnWords[questionIndex].mean,
           answers: [
@@ -265,6 +273,7 @@ class DataHepler {
         giveMe3DifIndexFromAllWord(questionWord.word);
     switch (Random().nextInt(4)) {
       case 0:
+        trueAnswerIndex = 0;
         var question = Question(
           question: wantTolearnWords[questionIndex].word,
           answers: [
@@ -292,6 +301,8 @@ class DataHepler {
         return question;
 
       case 1:
+        trueAnswerIndex = 1;
+
         var question = Question(
           question: wantTolearnWords[questionIndex].word,
           answers: [
@@ -318,6 +329,8 @@ class DataHepler {
         print(question.answers);
         return question;
       case 2:
+        trueAnswerIndex = 2;
+
         var question = Question(
           question: wantTolearnWords[questionIndex].word,
           answers: [
@@ -344,6 +357,8 @@ class DataHepler {
         print(question.answers);
         return question;
       case 3:
+        trueAnswerIndex = 3;
+
         var question = Question(
           question: wantTolearnWords[questionIndex].word,
           answers: [

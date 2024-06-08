@@ -13,7 +13,7 @@ class _UnKnonwnWordsPageState extends State<UnKnonwnWordsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("bilmiyom page"),
+        title: const Text("Bilmediğim Kelimeler"),
         automaticallyImplyLeading: false,
         leading: IconButton(
           onPressed: () {

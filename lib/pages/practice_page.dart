@@ -82,6 +82,7 @@ class _PracticePageState extends State<PracticePage> {
                 _answerColor1 = Colors.green;
                 DataHepler.increaseWordIsCorretNum(answer.key);
               } else {
+                showTrueAnswerIfAnswerFalse();
                 _answerColor1 = Colors.red;
                 DataHepler.resetIsCorrectNum(answer.key);
               }
@@ -89,7 +90,7 @@ class _PracticePageState extends State<PracticePage> {
           } else {
             print("is answerd : $_isAnswered");
           }
-          DelayAfterAnswer();
+          DelayAfterAnswer(answer.isCorrect);
         },
         child: Container(
           height: 75,
@@ -133,6 +134,8 @@ class _PracticePageState extends State<PracticePage> {
                 _answerColor2 = Colors.green;
                 DataHepler.increaseWordIsCorretNum(answer.key);
               } else {
+                showTrueAnswerIfAnswerFalse();
+
                 _answerColor2 = Colors.red;
                 DataHepler.resetIsCorrectNum(answer.key);
               }
@@ -140,7 +143,7 @@ class _PracticePageState extends State<PracticePage> {
           } else {
             print("is answerd : $_isAnswered");
           }
-          DelayAfterAnswer();
+          DelayAfterAnswer(answer.isCorrect);
         },
         child: Container(
           height: 75,
@@ -184,6 +187,8 @@ class _PracticePageState extends State<PracticePage> {
                 _answerColor3 = Colors.green;
                 DataHepler.increaseWordIsCorretNum(answer.key);
               } else {
+                showTrueAnswerIfAnswerFalse();
+
                 _answerColor3 = Colors.red;
                 DataHepler.resetIsCorrectNum(answer.key);
               }
@@ -191,7 +196,7 @@ class _PracticePageState extends State<PracticePage> {
           } else {
             print("is answerd : $_isAnswered");
           }
-          DelayAfterAnswer();
+          DelayAfterAnswer(answer.isCorrect);
         },
         child: Container(
           height: 75,
@@ -235,6 +240,8 @@ class _PracticePageState extends State<PracticePage> {
                 _answerColor4 = Colors.green;
                 DataHepler.increaseWordIsCorretNum(answer.key);
               } else {
+                showTrueAnswerIfAnswerFalse();
+
                 _answerColor4 = Colors.red;
                 DataHepler.resetIsCorrectNum(answer.key);
               }
@@ -242,7 +249,7 @@ class _PracticePageState extends State<PracticePage> {
           } else {
             print("is answerd : $_isAnswered");
           }
-          DelayAfterAnswer();
+          DelayAfterAnswer(answer.isCorrect);
         },
         child: Container(
           height: 75,
@@ -271,7 +278,6 @@ class _PracticePageState extends State<PracticePage> {
     );
   }
 
- 
   void newQuestionFunc() {
     _isAnswered = false;
     _answerColor1 = Colors.grey.shade100;
@@ -284,13 +290,48 @@ class _PracticePageState extends State<PracticePage> {
     }
   }
 
-  DelayAfterAnswer() {
+  DelayAfterAnswer(bool isAnswerTrue) {
     print("delay start");
-    Future.delayed(
-      Duration(milliseconds: 800),
-      () {
-        newQuestionFunc();
-      },
-    );
+    if (isAnswerTrue) {
+      Future.delayed(
+        Duration(milliseconds: 800),
+        () {
+          newQuestionFunc();
+        },
+      );
+    } else {
+      Future.delayed(
+        Duration(milliseconds: 2000),
+        () {
+          newQuestionFunc();
+        },
+      );
+    }
+  }
+
+  showTrueAnswerIfAnswerFalse() {
+    print("true answer index : ${DataHepler.trueAnswerIndex}");
+    switch (DataHepler.trueAnswerIndex) {
+      case 0:
+        _answerColor1 = Colors.green;
+        print("color 1 changed");
+        break;
+      case 1:
+        _answerColor2 = Colors.green;
+        print("color 2 changed");
+
+        break;
+      case 2:
+        _answerColor3 = Colors.green;
+        print("color 3 changed");
+
+        break;
+      case 3:
+        _answerColor4 = Colors.green;
+
+        print("color 4 changed");
+
+        break;
+    }
   }
 }
