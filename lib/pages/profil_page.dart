@@ -200,9 +200,6 @@ class _ProfilePageState extends State<ProfilePage> {
     );
   }
 
-  bildigimKelimelerGuncelle() {
-    // bildigimKelimelerVar = DataHelper.biliyorumList.length;
-  }
 
   onUpdate() {
     setState(() {

@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Material App',
+      title: 'Word 1000',
       home: HomePage(),
       builder: EasyLoading.init(),
     );
